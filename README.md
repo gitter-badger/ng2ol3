@@ -1,4 +1,6 @@
 # ng2ol3 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)]() [![GitHub version](https://badge.fury.io/gh/fegyi001%2Fng2ol3.svg)](https://badge.fury.io/gh/fegyi001%2Fng2ol3) [![npm version](https://badge.fury.io/js/ng2ol3.svg)](https://badge.fury.io/js/ng2ol3) 
+
+[![Join the chat at https://gitter.im/ng2ol3/Lobby](https://badges.gitter.im/ng2ol3/Lobby.svg)](https://gitter.im/ng2ol3/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > A combination of <b>Angular2 & OpenLayers3</b> using <i>TypeScript, RxJS & SCSS (Bourbon) </i> for creating customizable, modern web maps
 
 [![Dependency Status](https://david-dm.org/fegyi001/ng2ol3.svg)](https://david-dm.org/fegyi001/ng2ol3)
